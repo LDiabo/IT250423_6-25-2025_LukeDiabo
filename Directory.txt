@@ -1,0 +1,12 @@
+C:\Work>dir
+ Volume in drive C is Windows
+ Volume Serial Number is D269-A566
+
+ Directory of C:\Work
+
+06/26/2025  09:32 AM    <DIR>          .
+06/26/2025  09:33 AM                64 A221-PC008 - Copy.txt
+06/26/2025  09:27 AM                49 A221-PC008.txt
+06/26/2025  09:26 AM    <DIR>          networksupport-it250423_od
+               2 File(s)            113 bytes
+               2 Dir(s)  774,812,061,696 bytes free
