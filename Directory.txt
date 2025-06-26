@@ -1,25 +1,10 @@
- Directory of C:\Users\it250423_OD
+C:\Work>dir
+ Volume in drive C is Windows
+ Volume Serial Number is D269-A566
 
-05/20/2025  03:11 PM    <DIR>          .
-06/13/2025  09:03 AM    <DIR>          ..
-11/17/2023  11:09 PM    <DIR>          .ms-ad
-06/20/2025  02:12 PM    <DIR>          .VirtualBox
-04/23/2025  10:25 AM    <DIR>          Contacts
-05/01/2025  10:39 AM    <DIR>          Desktop
-06/19/2025  08:55 AM    <DIR>          Documents
-06/25/2025  09:24 AM    <DIR>          Downloads
-04/23/2025  10:25 AM    <DIR>          Favorites
-05/20/2025  03:10 PM    <DIR>          Folder1
-05/20/2025  03:10 PM    <DIR>          Folder2
-05/20/2025  03:11 PM    <DIR>          Folder4
-04/23/2025  10:25 AM    <DIR>          Links
-04/23/2025  10:25 AM    <DIR>          Music
-05/20/2025  03:10 PM    <DIR>          New
-05/12/2025  09:16 AM    <DIR>          OneDrive
-06/14/2025  12:09 PM    <DIR>          OneDrive - lbpsb.qc.ca
-04/25/2025  02:38 PM    <DIR>          Pictures
-04/23/2025  10:25 AM    <DIR>          Saved Games
-04/23/2025  10:25 AM    <DIR>          Searches
-04/24/2025  10:24 PM    <DIR>          Videos
-               0 File(s)              0 bytes
-              21 Dir(s)  781,550,333,952 bytes free
+ Directory of C:\Work
+
+06/26/2025  08:56 AM    <DIR>          .
+06/26/2025  08:56 AM                 0 A221-PC008.txt
+               1 File(s)              0 bytes
+               1 Dir(s)  774,829,502,464 bytes free
