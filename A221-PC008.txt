@@ -1,0 +1,26 @@
+This will contain information about your Computer
+
+Directory
+
+C:\Work>dir
+ Volume in drive C is Windows
+ Volume Serial Number is D269-A566
+
+ Directory of C:\Work
+
+06/26/2025  09:32 AM    <DIR>          .
+06/26/2025  09:33 AM                64 A221-PC008 - Copy.txt
+06/26/2025  09:27 AM                49 A221-PC008.txt
+06/26/2025  09:26 AM    <DIR>          networksupport-it250423_od
+               2 File(s)            113 bytes
+               2 Dir(s)  774,812,061,696 bytes free
+
+
+Network Configuration
+
+ IPv4 Address. . . . . . . . . . . : 192.168.221.166(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Thursday, June 19, 2025 12:32:11 PM
+   Lease Expires . . . . . . . . . . : Friday, June 27, 2025 12:33:25 AM
+   Default Gateway . . . . . . . . . : 192.168.221.1
+   DHCP Server . . . . . . . . . . . : 192.168.221.1
