@@ -1,4 +1,4 @@
-# 5 Takeways from the Intro to Dos Video
+# 5 Takeways from the Intro to DOS Video
 
 - the first interesting this about this video was how you can make a shortcut with command prompt on your desktop, and then set the directory you want command prompt to start up with, rather than use the default Windows32x folder.
 
