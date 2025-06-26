@@ -1,0 +1,6 @@
+ IPv4 Address. . . . . . . . . . . : 192.168.221.166(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Thursday, June 19, 2025 12:32:11 PM
+   Lease Expires . . . . . . . . . . : Friday, June 27, 2025 12:33:25 AM
+   Default Gateway . . . . . . . . . : 192.168.221.1
+   DHCP Server . . . . . . . . . . . : 192.168.221.1
